@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Revisar Mail",
+    "descripcion": "Responder correos pendientes del trabajo",
+    "fecha": "2025-10-30",
+    "categoria": "Trabajo",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "titulo": "Estudiar JS",
+    "descripcion": "Terminar la entrega final",
+    "fecha": "2025-11-6",
+    "categoria": "Estudio",
+    "estado": "pendiente"
+  },
+  {
+    "id": 3,
+    "titulo": "Parcial Arquitectura de computadoras",
+    "descripcion": "Terminar la entrega final",
+    "fecha": "2025-11-20",
+    "categoria": "Estudio",
+    "estado": "pendiente"
+  }
+]
