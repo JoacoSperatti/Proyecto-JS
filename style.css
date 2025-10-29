@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f5cc97;
+  background-color: #fae4c8;
   margin: 0;
   padding: 20px;
 }
 
 h1 {
   text-align: center;
-  color: #ffffff;
+  color: #333;
 }
 
 #formulario {
